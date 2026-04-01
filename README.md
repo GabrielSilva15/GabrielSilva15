@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Meu nome é Gabriel, tenho 20 anos, sou estudante de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba - Cajazeiras, estou no 5º período, sou desenvolvedor Full-Stack, com principais tecnologias sendo o JavaScript com NodeJS para back-end e React para front-end.</p>
+<p align="center">Meu nome é Gabriel, tenho 21 anos, sou formado em Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba - Cajazeiras, sou desenvolvedor Full-Stack, com principais tecnologias sendo o JavaScript com NodeJS e Java para back-end e React para front-end.</p>
 
 ###
 
@@ -32,6 +32,8 @@
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="postgresql logo"  />
 </div>
 
 ###
